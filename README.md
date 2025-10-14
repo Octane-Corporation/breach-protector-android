@@ -1,6 +1,6 @@
 # 🔐 Password Breach Protector (Android)
 
-A privacy-first Android app built with **Kotlin** and **Jetpack Compose** that helps users check if their passwords have appeared in known data breaches — **without ever sending the full password to any server**.
+A privacy-first Android app built with **Kotlin** and **Jetpack Compose** that helps users check if their passwords have appeared in known data breaches — **without ever sending the full password to any server**
 
 ---
 
